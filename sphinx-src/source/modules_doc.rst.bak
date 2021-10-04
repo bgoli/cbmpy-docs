@@ -1,0 +1,90 @@
+PySCeSCBM Module Documentation
+==============================
+
+.. automodule:: CBConfig
+    :members:
+..    :undoc-members:
+    
+.. automodule:: CBCPLEX
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBDataStruct
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBGLPK
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBGUI
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBModel
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBModelTools
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBMultiCore
+    :members:
+..    :undoc-members:
+    
+.. automodule:: CBMultiEnv
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBNetDB
+    :members:
+..    :undoc-members:
+    
+.. automodule:: CBPlot
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBRead
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBReadtxt
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBSolver     
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBTools
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBWrite
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBXML
+    :members:
+..    :undoc-members:
+
+.. automodule:: PyscesStoich
+    :members:
+..    :undoc-members:
+
+.. automodule:: _multicorefva
+    :members:
+..    :undoc-members:
+    
+.. automodule:: _multicoreenvfva
+    :members:
+..    :undoc-members:
+
+.. automodule:: miriamids
+    :members:
+..    :undoc-members:
+
+.. automodule:: CBSandBox
+    :members:
+..    :undoc-members:

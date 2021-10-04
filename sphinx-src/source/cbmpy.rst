@@ -11,7 +11,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   install_doc
    manual_doc
    modules_doc
 
